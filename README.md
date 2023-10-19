@@ -1,2 +1,2 @@
 # config-store
-this repo stores application configuration
+This repo stores application configuration, which is syned into Spring Cloud Config server.
